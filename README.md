@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
-<h3 align="center">Fullstack MERN y Quality Assurance Manual</h3>
+<h3 align="center">Fullstack MERN & Quality Assurance Manual</h3>
 
 - 🔭 I’m currently working on [Python - UNT - 2025](https://github.com/nicolaspannunzio/UTN-TUPaD-P1)
 
